@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25f6d1a5-9734-4c1e-9341-dbca4079efeb" name="Changes" comment="" />
+    <list default="true" id="25f6d1a5-9734-4c1e-9341-dbca4079efeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_0_6_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24pmTestSimplify/dao/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24pmTestSimplify/dao/PersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24pmTestSimplify/dao/impl/PersonDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24pmTestSimplify/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24pmTestSimplify/util/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24pmTestSimplify/view/PersonView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day25_pm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day25_pm.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DbcdgoibVawkEPNtHvUXa180qZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +40,37 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/g14user01/OneDrive/20220630_20210315/20220810_step1_projects/20220819_day25/day25_pm/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\g14user01\OneDrive\20220630_20210315\20220810_step1_projects\20220819_day25\day25_pm\src" />
+      <recent name="C:\Users\g14user01\OneDrive\20220630_20210315\20220810_step1_projects\20220819_day25\day25_pm" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PersonView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24pmTestSimplify.view.PersonView" />
+      <module name="day25_pm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day24pmTestSimplify.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PersonView" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,7 +79,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660971314951</updated>
+      <workItem from="1660971316461" duration="4576000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1660971332458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660971332458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>
